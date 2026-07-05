@@ -14,8 +14,9 @@ You simply have to download the .py and fasta files (or get your own fasta files
 
 ## Usage
 Run the script and select:
-1. The reference DNA sequence.
-2. The patient's DNA sequence.
+1. The reference DNA sequence
+2. The patient's DNA sequence
+
 The program compares both sequences and generates:
 - A list of detected SNPs
 - A summary of their predicted effects
