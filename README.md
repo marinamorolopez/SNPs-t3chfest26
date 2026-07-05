@@ -30,15 +30,16 @@ Patient sequence: patient_sequence.fasta
 ```
 Output
 ```
-Detected SNPs: 12
-Position: 324
+Detected SNPs: 4
+Position: 75203
 Reference: C
 Patient: T
-Effect: Increased risk of diabetes
-Position: 728
-Reference: A
-Patient: G
+Effect: Increased risk of type 2 diabetes
+Position: 225424
+Reference: G
+Patient: T
 Effect: Unknown
+...
 Output file:
 variants.vcf
 ```
